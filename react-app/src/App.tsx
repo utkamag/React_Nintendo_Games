@@ -1,14 +1,11 @@
 import React from 'react';
 import './App.css';
-import {Box, Typography} from "@mui/material";
+import {Header} from "./components/Header";
 
 function App() {
   return (
     <div className="App">
-      <Box>
-          <Typography variant="h1">123</Typography>
-          <Home/>
-      </Box>
+      <Header/>
     </div>
   );
 }

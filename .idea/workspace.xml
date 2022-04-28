@@ -2,19 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3fc25a88-32d6-4ec0-af41-e90a45b0a10d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-app/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-app/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-app/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-app/src/App.test.tsx" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-app/src/components/Header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-app/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/react-app/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/react-app/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-app/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-app/src/logo.svg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="tsconfig.json" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -27,16 +32,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "C:\\Users\\Вихарев Егор\\Documents\\React_Nintendo_Games\\react-app\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\Вихарев Егор\\Documents\\React_Nintendo_Games\\react-app\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -46,7 +51,8 @@
       <option name="presentableId" value="Default" />
       <updated>1651049705814</updated>
       <workItem from="1651049707198" duration="16000" />
-      <workItem from="1651050265349" duration="321000" />
+      <workItem from="1651050265349" duration="1183000" />
+      <workItem from="1651137347303" duration="3074000" />
     </task>
     <servers />
   </component>

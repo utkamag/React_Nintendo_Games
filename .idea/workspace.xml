@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3fc25a88-32d6-4ec0-af41-e90a45b0a10d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/react-app/src/components/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-app/src/components/Games.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-app/src/components/Router.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-app/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/react-app/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/react-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/react-app/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/react-app/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-app/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-app/src/components/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-app/src/components/Header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-app/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-app/src/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +19,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="tsconfig.json" />
         <option value="TypeScript File" />
+        <option value="JavaScript File" />
+        <option value="TypeScript JSX File" />
       </list>
     </option>
   </component>
@@ -52,7 +57,7 @@
       <updated>1651049705814</updated>
       <workItem from="1651049707198" duration="16000" />
       <workItem from="1651050265349" duration="1183000" />
-      <workItem from="1651137347303" duration="3074000" />
+      <workItem from="1651137347303" duration="11696000" />
     </task>
     <servers />
   </component>

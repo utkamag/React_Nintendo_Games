@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3fc25a88-32d6-4ec0-af41-e90a45b0a10d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/react-app/src/components/Data.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-app/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-app/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-app/src/types/apiTypes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/react-app/src/types/apiTypes.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +55,8 @@
       <workItem from="1651050265349" duration="1183000" />
       <workItem from="1651137347303" duration="11696000" />
       <workItem from="1651259870497" duration="218000" />
-      <workItem from="1651672849528" duration="6390000" />
+      <workItem from="1651672849528" duration="6986000" />
+      <workItem from="1651827748933" duration="6294000" />
     </task>
     <servers />
   </component>

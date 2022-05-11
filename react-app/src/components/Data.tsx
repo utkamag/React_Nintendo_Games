@@ -13,8 +13,10 @@ const NintendoList: React.FC<apiProps> = ({data}) => {
                     <Container>
                         <Grid container spacing={2} key={dat.id}>
                             <Grid item md={12} sx={{marginTop: "20px"}}>
-                                <Card>
-                                    <Typography sx={{padding: "20px"}}>{dat.name}</Typography>
+                                <Card sx={{padding: "10px"}}>
+                                    <Typography variant="h5" sx={{padding: "10px"}}>{dat.name}</Typography>
+                                    <Typography>Разработчик: {dat.developers}</Typography>
+                                    <Typography>Дата релиза в Японии: {dat.releaseDates.Japan}</Typography>
                                 </Card>
                             </Grid>
                         </Grid>

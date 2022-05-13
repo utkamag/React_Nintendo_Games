@@ -6,25 +6,11 @@ import NintendoList from "./components/Data";
 
 function App() {
 
-
-    //Стейт для данных с api
-
-    const [apis, setApis] = useState<any[]>([])
-
-    // Получаем данные с api
-
-    useEffect(() => {
-        fetch("https://api.sampleapis.com/switch/games")
-            .then(res => res.json())
-            .then(data => setApis(data))
-    })
-
-
     return (
         <div className="App">
             <Header/>
             <ApiList/>
-            <NintendoList data={apis}/>
+            <NintendoList/>
         </div>
     );
 }

@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3fc25a88-32d6-4ec0-af41-e90a45b0a10d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-app/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/react-app/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-app/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-app/src/App.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/react-app/src/components/Data.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-app/src/components/Data.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +62,8 @@
       <workItem from="1652258446157" duration="201000" />
       <workItem from="1652259540079" duration="7000" />
       <workItem from="1652345221298" duration="1260000" />
-      <workItem from="1652427835172" duration="6967000" />
+      <workItem from="1652427835172" duration="7279000" />
+      <workItem from="1652864263294" duration="1820000" />
     </task>
     <servers />
   </component>

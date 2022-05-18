@@ -26,6 +26,7 @@ const NintendoList: React.FC = () => {
             .then(res => res.json())
             .then(data => setApis(data))
             .then(data => setLoading(true))
+            .catch(error => alert("Ошибка подключения к серверу"))
     })
 
 

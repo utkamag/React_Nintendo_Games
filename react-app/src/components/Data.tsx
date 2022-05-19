@@ -1,5 +1,5 @@
 import React, {useEffect, useState} from 'react';
-import {Box, Card, CardContent, CardMedia, Container, Grid, Typography} from "@mui/material";
+import {Box, Card, CardContent, CardMedia, Container, Grid, Rating, Typography} from "@mui/material";
 import Skeleton from '@mui/material/Skeleton';
 
 
@@ -10,6 +10,10 @@ const NintendoList: React.FC = () => {
 
     const apises = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 
+
+// Данные рейтинга
+
+    const [value, setValue] = useState(0)
 
 // Стейт для данных с api
 
@@ -35,13 +39,14 @@ const NintendoList: React.FC = () => {
             {loading ? (apis.map((data: any) => {
                 return (
                     <Container>
-                        <Grid container spacing={2} key={data.id}>
+                        <Grid container spacing={2} key={data.id} justifyContent="center">
                             <Grid item md={12} sx={{marginTop: "20px"}}>
                                 <Card sx={{padding: "10px"}}>
                                     <CardContent>
                                         <Typography variant="h5" sx={{padding: "10px"}}>{data.name}</Typography>
                                         <Typography>Разработчик: {data.developers}</Typography>
                                         <Typography>Дата релиза в Японии: {data.releaseDates.Japan}</Typography>
+                                        <Rating name="size-large" defaultValue={0} value={value} onChange={() => {setValue(value)}} size="large" />
                                     </CardContent>
                                 </Card>
                             </Grid>
